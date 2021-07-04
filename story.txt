@@ -1,0 +1,16 @@
+DONE: when the bot receives the command "play a game"
+
+TODO: then it asks "Who wants to join?"
+TODO: and every time someone types "join" it adds them to the players list
+TODO: and it waits until someone types "done" or every active player is playing
+
+DONE: then it fetches a word combo from words.txt on Github
+TODO: and assigns each player a word and DMs them their word
+
+TODO: then it outputs "Round 1: " and an order for the game
+TODO: and waits until someone types "done" when they are done saying something about their word
+
+TODO: then it makes everyone vote
+TODO: and calculates who has the most votes and removes them from the player list
+TODO: IF there is a tie then continue
+TODO: repeat from line 7
